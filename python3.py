@@ -1,1 +1,1 @@
-print('ANB')
+print('ANBSchool')
